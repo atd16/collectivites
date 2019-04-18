@@ -1,6 +1,7 @@
 {
   "collectivites": [
    {
+     "id": 1,
      "nom": "ADJOTS(LES)",
      "insee": 16002,
      "adresse": "le bourg",
@@ -8,6 +9,7 @@
      "mail": "adjots@ville.fr"
    },
    {
+     "id": 2,
      "nom": "AGRIS",
      "insee": 16003,
      "adresse": "le bourg",
