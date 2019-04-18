@@ -1,5 +1,5 @@
 {
-  "collectivites": [
+  "data": [
    {
      "id": 1,
      "nom": "ADJOTS(LES)",
@@ -16,8 +16,5 @@
      "zip": 16110,
      "mail": "agris@ville.fr"
    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
