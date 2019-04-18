@@ -6,7 +6,7 @@
      "adresse": "le bourg",
      "zip": 16700,
      "tel": "05 45 31 02 95",
-     "mail": "mairielesadjots@ville.fr"
+     "mail": "adjots@ville.fr"
    },
    {
      "nom": "AGRIS",
@@ -14,7 +14,7 @@
      "adresse": "le bourg",
      "zip": 16110,
      "tel": "05 45 63 93 68",
-     "mail": "mairie.agris@ville.fr"
+     "mail": "agris@ville.fr"
    },
    {
      "nom": "AIGRE",
@@ -22,7 +22,7 @@
      "adresse": "2 rue de l'hotel de ville",
      "zip": 16140,
      "tel": "05 45 21 10 56",
-     "mail": "contact-aigre@ville.fr"
+     "mail": "aigre@ville.fr"
    }
   ],
   "profile": {
