@@ -1,30 +1,28 @@
 {
   "collectivites": [
- {
-   "ABZAC": "ADJOTS(LES)",
-   "16001": 16002,
-   "Le Bourg": "le bourg",
-   "16500": 16700,
-   "ABZAC": "LES ADJOTS",
-   "05 45 89 40 21": "05 45 31 02 95",
-   "mairie-abzac@wanadoo.fr": "mairielesadjots@ville.fr"
- },
- {
-   "ABZAC": "AGRIS",
-   "16001": 16003,
-   "Le Bourg": "le bourg",
-   "16500": 16110,
-   "ABZAC": "AGRIS",
-   "05 45 89 40 21": "05 45 63 93 68",
-   "mairie-abzac@wanadoo.fr": "mairie.agris@ville.fr"
- },
- {
-   "ABZAC": "AIGRE",
-   "16001": 16005,
-   "Le Bourg": "2 rue de l'hotel de ville",
-   "16500": 16140,
-   "ABZAC": "AIGRE",
-   "05 45 89 40 21": "05 45 21 10 56",
-   "mairie-abzac@wanadoo.fr": "contact-aigre@ville.fr
- }
-  ]}
+   {
+     "nom": "ADJOTS(LES)",
+     "insee": 16002,
+     "adresse": "le bourg",
+     "zip": 16700,
+     "tel": "05 45 31 02 95",
+     "mail": "mairielesadjots@ville.fr"
+   },
+   {
+     "nom": "AGRIS",
+     "insee": 16003,
+     "adresse": "le bourg",
+     "zip": 16110,
+     "tel": "05 45 63 93 68",
+     "mail": "mairie.agris@ville.fr"
+   },
+   {
+     "nom": "AIGRE",
+     "insee": 16005,
+     "adresse": "2 rue de l'hotel de ville",
+     "zip": 16140,
+     "tel": "05 45 21 10 56",
+     "mail": "contact-aigre@ville.fr
+   }
+  ]
+}
